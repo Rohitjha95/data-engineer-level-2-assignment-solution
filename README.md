@@ -25,5 +25,3 @@ This project aims to automate the extraction, processing, and analysis of taxi t
 ## Contact
 - Contact information for inquiries about the project
   Email - Rohitshrimohanjha@gmail.com .
-Note -
-You can import the ETL_full_code.ipynb file in Jupyter notebook and run the project directly.
