@@ -20,10 +20,8 @@ This project aims to automate the extraction, processing, and analysis of taxi t
 - **SQL Queries and Visualization**: The Sql_queries_and_generate_reports.py file contains SQL queries to answer specific questions about taxi usage and create visualizations based on query results.
 
 ## License
-- Include license information if applicable.
-
-## Contributors
-- List contributors or acknowledge contributions.
+- NA
 
 ## Contact
-- Provide contact information for inquiries about the project.
+- Contact information for inquiries about the project
+  Email - Rohitshrimohanjha@gmail.com .
